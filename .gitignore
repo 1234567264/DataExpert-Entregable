@@ -1,0 +1,29 @@
+# Entornos virtuales, cachés y archivos auxiliares
+
+# Entorno virtual de Python
+.venv/
+venv/
+env/
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Caché de pytest
+.pytest_cache/
+
+# Archivo auxiliar del proyecto (no se modifica)
+.atl
+
+# Registros de ejecución temporales
+*.log
+
+# Editores y sistemas operativos
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
+.DS_Store
