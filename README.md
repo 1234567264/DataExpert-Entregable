@@ -164,7 +164,7 @@ resto del código.
 
 ## Lista de comprobación
 
-- [ ] `python main.py` termina sin errores y firma `Proyecto completado`
-- [ ] `reports/figures/` contiene 11 PNG
-- [ ] `reports/informe.md` existe y contiene los valores de la ejecución
-- [ ] `pytest` termina con `22 passed`
+- [x] `python main.py` termina sin errores y firma `Proyecto completado`
+- [x] `reports/figures/` contiene 11 PNG
+- [x] `reports/informe.md` existe y contiene los valores de la ejecución
+- [x] `pytest` termina con `22 passed`
